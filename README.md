@@ -1,2 +1,0 @@
-# agricola
-agricola - board game
